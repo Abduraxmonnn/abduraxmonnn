@@ -1,9 +1,6 @@
-### Hi! I am Asatullayev Abduraxmon 👋
-
-
 - 🔭 Certainly I work in Backend
 - 📫 contact me by mail: abduraxmonasatullayev35@gmail.com
-- ⚡ Fun fact: To be honestly I am so thin notwithstanding I eat a lot
+- ⚡️ Fun fact: To be honestly I am so thin notwithstanding I eat a lot
 
 #
 
@@ -22,9 +19,10 @@
  
   #
   
- <div> 
-  <a href="https://instagram.com/1.abduraxmon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/718718971116912641" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <div>
+  <a href="https://instagram.com/1.abduraxmon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduraxmonnn" height="30" width="40" /></a>
+  <a href="https://discord.com/users/718718971116912641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abduraxmonnn" height="30" width="40" /></a>
+  <a href="https://t.me/Asatullayev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/svg.lt="abduraxmonnn" height="30" width="40" /></a>
  <a href="https://t.me/Asatullayev/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  <a href = "mailto:abduraxmonasatullayev35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <a href = "https://gitlab.com/Abduraxmonnn"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>

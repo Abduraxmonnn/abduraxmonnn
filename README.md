@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-SqlAlchemy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- <img align="right" alt="Coding" height="200" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif"> 
+ <img align="right" alt="Coding" height="150" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif"> 
  
   #
   

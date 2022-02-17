@@ -8,9 +8,10 @@
 #
 
 <div align="center">
-  <a href="https://beacons.ai/abduraxmonnn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduraxmonnn&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abduraxmonnn&&theme=tokyonight"/>
+  <a href="https://github.com/abduraxmonnn">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abduraxmonnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduraxmonnn&layout=compact&langs_count=7&theme=dracula"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abduraxmonnn&&theme=dracula"/>
 </div>
   
 <div style="display: inline_block">

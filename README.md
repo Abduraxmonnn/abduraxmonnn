@@ -13,12 +13,6 @@
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abduraxmonnn&&theme=dracula"/>
 </div>
   
-<div style="display: inline_block">
-  <br>
-  <img align="center" alt="Abduraxmon-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Abduraxmon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Abduraxmon-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-</div>
  <img align="right" alt="Coding" height="150" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif"> 
  
   #

@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/Abduraxmonnn">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abduraxmonnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abduraxmonnn&&theme=dracula"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abduraxmonnn&&theme=radical"/>
 </div>
   
  <img align="right" alt="Coding" height="150" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif"> 

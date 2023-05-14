@@ -3,7 +3,7 @@
 <h1 align="center">Hello!</h1>
 <h4 align="center">I'm Asatullaev  Abdurakhmonkhuja Python Backend developer from Tashkent</h4>
 
-- 🔭 I work in Django
+- 🔭 I work in Python
 - 📫 contact me by mail: abduraxmonasatullayev35@gmail.com
 - ⚡️ Fun fact: To be honestly I am so thin notwithstanding I eat a lot
 

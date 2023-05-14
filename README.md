@@ -1,3 +1,5 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hello!</h1>
 <h4 align="center">I'm Asatullaev  Abdurakhmonkhuja Python Backend developer from Tashkent</h4>
 
@@ -30,3 +32,26 @@
   
 ## 🪐 CV Website:
 [CV link](https://1abduraxmon-resume.my.canva.site)
+
+## 
+<!-- ![Snake animation](https://github.com/Abduraxmonnn/Abduraxmonnn/blob/output/github-contribution-grid-snake.svg) -->
+  
+ 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>

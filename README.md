@@ -28,6 +28,7 @@
     <a href = "mailto:abduraxmonasatullayev35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     <a href = "https://gitlab.com/Abduraxmonnn"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
     <a href = "https://www.linkedin.com/in/abduraxmon-asatullaev-011184249/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "https://leetcode.com/Abduramxon/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
 </div>
   
 ## 🪐 CV Website:
@@ -55,3 +56,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+  

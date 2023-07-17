@@ -1,5 +1,3 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hello!</h1>
 <h4 align="center">I'm Asatullaev  Abdurakhmonkhuja Python Backend developer from Tashkent</h4>
 
@@ -10,8 +8,6 @@
 #
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=Python+Developer;Web+Developer)](#)
-  
- <img align="right" alt="Coding" height="150" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif"> 
 
 <div align="center">
   <a href="https://github.com/Abduraxmonnn">
@@ -32,7 +28,10 @@
 </div>
   
 ## 🪐 CV Website:
-[CV link](https://1abduraxmon-resume.my.canva.site)
+<p align="left">
+  <img width="300" height="300" src="https://github.com/Abduraxmonnn/abduraxmonnn/assets/90904737/ab69e920-1e80-4361-a1ce-6cdd4533d17b">
+  <img align="right" alt="Coding" height="250" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif"> 
+</p>
 
 ## 
 <!-- ![Snake animation](https://github.com/Abduraxmonnn/Abduraxmonnn/blob/output/github-contribution-grid-snake.svg) -->

@@ -29,7 +29,7 @@
   
 ## 🪐 CV Website:
 <p align="left">
-  <img width="300" height="300" src="https://github.com/Abduraxmonnn/abduraxmonnn/assets/90904737/8076c494-3fdc-4869-8b74-3903ce23a3e8">
+  <img width="300" height="300" src="https://github.com/Abduraxmonnn/abduraxmonnn/assets/90904737/b2d0c5c6-0545-44d4-80fa-1fc8bea6e448">
   <img align="right" alt="Coding" height="250" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif">
 </p>
 
@@ -41,9 +41,7 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source
     media="(prefers-color-scheme: light)"
     srcset="

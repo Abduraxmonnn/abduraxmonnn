@@ -29,8 +29,8 @@
   
 ## 🪐 CV Website:
 <p align="left">
-  <img width="300" height="300" src="https://github.com/Abduraxmonnn/abduraxmonnn/assets/90904737/ab69e920-1e80-4361-a1ce-6cdd4533d17b">
-  <img align="right" alt="Coding" height="250" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif"> 
+  <img width="300" height="300" src="https://github.com/Abduraxmonnn/abduraxmonnn/assets/90904737/8076c494-3fdc-4869-8b74-3903ce23a3e8">
+  <img align="right" alt="Coding" height="250" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif">
 </p>
 
 ## 

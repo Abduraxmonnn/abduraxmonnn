@@ -28,6 +28,7 @@
 </div>
   
 ## 🪐 CV Website:
+- <h4>You can scan the below qr code to get more information about me and my skills, experience...</h4>
 <p align="left">
   <img width="300" height="300" src="https://github.com/Abduraxmonnn/abduraxmonnn/assets/90904737/b2d0c5c6-0545-44d4-80fa-1fc8bea6e448">
   <img align="right" alt="Coding" height="250" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif">

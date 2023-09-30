@@ -7,13 +7,13 @@
 
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=Python+Developer;Web+Developer)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=Python+Developer;Python+Developer)](#)
 
 <div align="center">
   <a href="https://github.com/Abduraxmonnn">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abduraxmonnn&show_icons=true&theme=radical"/>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abduraxmonnn&&theme=radical"/>
-      <img width="40%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abduraxmonnn&layout=compact&hide_border=true&theme=radical"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abduraxmonnn&border_radius=20&show_icons=true&theme=radical"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abduraxmonnn&border_radius=20&theme=radical"/>
+      <img width="40%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abduraxmonnn&border_radius=20&layout=compact&hide_border=true&theme=radical"/>
 </div>
  
   ## 🌎 Links:

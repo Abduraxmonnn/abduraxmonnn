@@ -50,7 +50,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ## 
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization --> 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduraxmonnn&theme=rogue" width="100%"> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduraxmonnn&theme=rogue" width="100%">
 
 
 <!--📈ACTIVITYHISTORY / 🌐WEBSITE: https://github-contributions.vercel.app/ -->

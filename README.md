@@ -56,6 +56,6 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <!--📈ACTIVITYHISTORY / 🌐WEBSITE: https://github-contributions.vercel.app/ -->
 <!-- ![image](https://github.com/Abduraxmonnn/abduraxmonnn/assets/90904737/189ac700-81bf-4551-9784-446b54de92b5) -->
 
-
-<!-- ![Snake animation](https://github.com/Abduraxmonnn/Abduraxmonnn/blob/output/github-contribution-grid-snake.svg) -->
+<!--📈SNAKEANIMATION / 🌐WEBSITE: https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733 -->
+![Snake animation](https://raw.githubusercontent.com/Abduraxmonnn/Abduraxmonnn/output/github-contribution-grid-snake-dark.svg)
   

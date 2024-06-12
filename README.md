@@ -2,8 +2,8 @@
 <h4 align="center">I'm Asatullaev  Abdurakhmonkhuja Python Backend developer from Tashkent</h4>
 
 - 🔭 I work in Python
-- 📫 contact me by mail: abduraxmonasatullayev35@gmail.com
-- ⚡️ Fun fact: To be honestly I am so thin notwithstanding I eat a lot
+- 📫  How to reach me: [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPxQfSbwvhCgKTzSwNXrDVSwZFCLMvdCxClQMsDgkKFGnRxnrXPqSgTDqrKWqCKGNcHCJL) or [LinkedIn](https://www.linkedin.com/in/abduraxmon-asatullaev-011184249/)
+- ⚡️ Fun fact: To be honest I am so thin notwithstanding I eat a lot
 
 #
 

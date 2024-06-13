@@ -11,7 +11,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ```
 
 <h2 align="center">I'm Asatullaev  Abdurakhmonkhuja Python Backend developer</h2>
-<!-- <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=I+am+Asatullaev+Abdurakhmonkhuja+Python+Backend+developer;I+am+Asatullaev+Abdurakhmonkhuja+Python+Backend+developer" alt="Typing SVG" /></a></center> -->
+<!-- <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=I+am+Asatullaev+Abdurakhmonkhuja+Python+developer;I+am+Asatullaev+Abdurakhmonkhuja+Python+developer" alt="Typing SVG" /></a></center> -->
 
 
 - 🔭 I work in Python

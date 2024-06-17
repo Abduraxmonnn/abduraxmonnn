@@ -14,7 +14,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <!-- <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=I+am+Asatullaev+Abdurakhmonkhuja+Python+developer;I+am+Asatullaev+Abdurakhmonkhuja+Python+developer" alt="Typing SVG" /></a></center> -->
 
 
-- 🔭 I work in Python
+- 🔭 I work in the Earth
 - 📫  How to reach me: [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPxQfSbwvhCgKTzSwNXrDVSwZFCLMvdCxClQMsDgkKFGnRxnrXPqSgTDqrKWqCKGNcHCJL) or [LinkedIn](https://www.linkedin.com/in/abduraxmon-asatullaev-011184249/)
 - ⚡️ Fun fact: To be honest I am so thin notwithstanding I eat a lot
 

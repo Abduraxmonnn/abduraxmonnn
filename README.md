@@ -26,6 +26,9 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <a href="https://github.com/Abduraxmonnn">
 <!--       <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abduraxmonnn&border_radius=20&hide_border=true&show_icons=true&count_private=true&theme=radical"/> -->
 <!-- 📈GITHUB STATE GENERATOR / 🌐WEBSITE: https://awesome-github-stats.azurewebsites.net/ -->
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=true">    
+       <img  alt="Abduraxmonnn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abduraxmonnn?cardType=level&theme=radical&preferLogin=true" />  
+     </a>
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abduraxmonnn&border_radius=20&hide_border=true&theme=radical"/>
       <img width="40%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abduraxmonnn&border_radius=20&hide_border=true&layout=compact&theme=radical"/>
 </div>

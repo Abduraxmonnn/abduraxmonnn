@@ -25,7 +25,6 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ☁️ Cozy Gamer </br>
 🎥 Movie lover
 
-
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=Python+Developer;Python+Developer)](#) -->
 
 ## Links

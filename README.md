@@ -10,7 +10,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 ```
 
-<h2 align="center">I'm a Python Software developer</h2>
+<h2 align="center">I'm a Software developer</h2>
 <!-- <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=I+am+Asatullaev+Abdurakhmonkhuja+Python+developer;I+am+Asatullaev+Abdurakhmonkhuja+Python+developer" alt="Typing SVG" /></a></center> -->
 
 ## My Values

@@ -70,4 +70,3 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 <!--📈SNAKEANIMATION / 🌐WEBSITE: https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733 -->
 ![Snake animation](https://raw.githubusercontent.com/Abduraxmonnn/Abduraxmonnn/output/github-contribution-grid-snake-dark.svg)
-

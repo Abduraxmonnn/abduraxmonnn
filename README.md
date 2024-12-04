@@ -60,8 +60,8 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <img align="right" alt="Coding" height="250" src="https://jonchaisson.files.wordpress.com/2017/07/anime-music-listening.gif">
 </p> -->
 
+#
 
-<!-- -->
 .　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
 .　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.
 

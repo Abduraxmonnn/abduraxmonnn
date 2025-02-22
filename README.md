@@ -44,16 +44,13 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <!--       <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abduraxmonnn&border_radius=20&hide_border=true&show_icons=true&count_private=true&theme=radical"/> -->
 <!-- 📈GITHUB STATE GENERATOR / 🌐WEBSITE: https://awesome-github-stats.azurewebsites.net/ -->
    
-      <!--    LAST ACTIVE STATS -->
 <!--       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=true">
          <img  alt="Abduraxmonnn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abduraxmonnn?cardType=level&theme=radical&preferLogin=true" />  
       </a>
       <a href="https://git.io/streak-stats">
          <img src="https://streak-stats.demolab.com?user=Abduraxmonnn&theme=radical&border_radius=10&exclude_days=Sun" alt="GitHub Streak" />
       </a> -->
-      
-      <!--    LAST ACTIVE STATS -->
-      
+         
 <!--      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abduraxmonnn&border_radius=20&hide_border=true&theme=radical"/> -->
 <!--       <img width="40%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abduraxmonnn&border_radius=20&hide_border=true&layout=compact&theme=radical"/> -->
 </div>
